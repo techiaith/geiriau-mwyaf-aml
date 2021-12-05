@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/435281889.svg)](https://zenodo.org/badge/latestdoi/435281889)
+
 # Geiriau ysgrifenedig mwyaf aml y Gymraeg a Saesneg
 
 [(click here to read the README in English)](README_en.md)
